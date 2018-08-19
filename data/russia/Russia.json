@@ -1,0 +1,209 @@
+{
+    "-LFdoNsNU6yf-c_OSI9O" : {
+      "club" : "CSKA Moscow",
+      "goalsFavor" : "0",
+      "imageURL" : "https://upload.wikimedia.org/wikipedia/commons/3/39/Igor_Akinfeev_2018.jpg",
+      "name" : "Igor Akinfeev",
+      "number" : "1",
+      "position" : "Goalkeeper",
+      "team" : "Russia"
+    },
+    "-LFdoO--vd-Vwg7ezwnr" : {
+      "club" : "CSKA Moscow",
+      "goalsFavor" : "0",
+      "imageURL" : "",
+      "name" : "Mário Fernandes",
+      "number" : "2",
+      "position" : "Defender",
+      "team" : "Russia"
+    },
+    "-LFdoO7ZVmrYGLW1Y_iP" : {
+      "club" : "Spartak Moscow",
+      "goalsFavor" : "0",
+      "imageURL" : "https://upload.wikimedia.org/wikipedia/commons/f/ff/Ilya_Kutepov_2016.jpg",
+      "name" : "Ilya Kutepov",
+      "number" : "3",
+      "position" : "Defender",
+      "team" : "Russia"
+    },
+    "-LFdoOFSaa94ekRR-q0B" : {
+      "club" : "CSKA Moscow",
+      "goalsFavor" : "9",
+      "imageURL" : "https://upload.wikimedia.org/wikipedia/commons/a/a9/Rus-Egy_%2813%29.jpg",
+      "name" : "Sergei Ignashevich",
+      "number" : "4",
+      "position" : "Defender",
+      "team" : "Russia"
+    },
+    "-LFdoONB4YkCdUdH1MN0" : {
+      "club" : "Akhmat Grozny",
+      "goalsFavor" : "0",
+      "imageURL" : "",
+      "name" : "Andrei Semyonov",
+      "number" : "5",
+      "position" : "Defender",
+      "team" : "Russia"
+    },
+    "-LFdoOUov72QzZ55pu0o" : {
+      "club" : "Villarreal",
+      "goalsFavor" : "3",
+      "imageURL" : "https://upload.wikimedia.org/wikipedia/commons/f/fc/Rus-Egy_%2815%29.jpg",
+      "name" : "Denis Cheryshev",
+      "number" : "6",
+      "position" : "Midfielder",
+      "team" : "Russia"
+    },
+    "-LFdoOeNsohNmiF2vtfv" : {
+      "club" : "Zenit St Petersburg",
+      "goalsFavor" : "0",
+      "imageURL" : "",
+      "name" : "Daler Kuzyaev",
+      "number" : "7",
+      "position" : "Midfielder",
+      "team" : "Russia"
+    },
+    "-LFdoOny7lgO6KGX9P8M" : {
+      "club" : "FC Krasnodar",
+      "goalsFavor" : "1",
+      "imageURL" : "",
+      "name" : "Yuri Gazinskiy",
+      "number" : "8",
+      "position" : "Midfielder",
+      "team" : "Russia"
+    },
+    "-LFdoOvgin-gdC6q4Nwg" : {
+      "club" : "CSKA Moscow",
+      "goalsFavor" : "9",
+      "imageURL" : "https://upload.wikimedia.org/wikipedia/commons/4/49/Alan_Dzagoev_2014.jpg",
+      "name" : "Alan Dzagoev",
+      "number" : "9",
+      "position" : "Midfielder",
+      "team" : "Russia"
+    },
+    "-LFdoP4AG3VcRxvqN-6V" : {
+      "club" : "FC Krasnodar",
+      "goalsFavor" : "12",
+      "imageURL" : "",
+      "name" : "Fedor Smolov",
+      "number" : "10",
+      "position" : "Forward",
+      "team" : "Russia"
+    },
+    "-LFdoPDSUWZzOSvd8kP1" : {
+      "club" : "Spartak Moscow",
+      "goalsFavor" : "0",
+      "imageURL" : "https://upload.wikimedia.org/wikipedia/commons/f/fd/Spartak-arsenal-53.jpg",
+      "name" : "Roman Zobnin",
+      "number" : "11",
+      "position" : "Midfielder",
+      "team" : "Russia"
+    },
+    "-LFdoPMGqDOW_pVkrLbR" : {
+      "club" : "Zenit St Petersburg",
+      "goalsFavor" : "0",
+      "imageURL" : "https://upload.wikimedia.org/wikipedia/commons/4/42/Andrey_Lunev_2018.jpg",
+      "name" : "Andrey Lunyov",
+      "number" : "12",
+      "position" : "Goalkeeper",
+      "team" : "Russia"
+    },
+    "-LFdoPTutaC6PtdD2Ll5" : {
+      "club" : "Rubin Kazan",
+      "goalsFavor" : "0",
+      "imageURL" : "",
+      "name" : "Fedor Kudryashov",
+      "number" : "13",
+      "position" : "Defender",
+      "team" : "Russia"
+    },
+    "-LFdoPamONe3JSrDpBtB" : {
+      "club" : "Rubin Kazan",
+      "goalsFavor" : "1",
+      "imageURL" : "https://upload.wikimedia.org/wikipedia/commons/6/6e/Vladimir_Granat_2016.jpg",
+      "name" : "Vladimir Granat",
+      "number" : "14",
+      "position" : "Defender",
+      "team" : "Russia"
+    },
+    "-LFdoPich4i5hI8malG1" : {
+      "club" : "Lokomotiv Moscow",
+      "goalsFavor" : "4",
+      "imageURL" : "https://upload.wikimedia.org/wikipedia/commons/7/7f/Alexey_Miranchuk.jpg",
+      "name" : "Aleksei Miranchuk",
+      "number" : "15",
+      "position" : "Forward",
+      "team" : "Russia"
+    },
+    "-LFdoPqGL5FsfCi0pAm5" : {
+      "club" : "Lokomotiv Moscow",
+      "goalsFavor" : "0",
+      "imageURL" : "https://upload.wikimedia.org/wikipedia/commons/c/cc/Anton_Miranchuk_2017.jpg",
+      "name" : "Anton Miranchuk",
+      "number" : "16",
+      "position" : "Midfielder",
+      "team" : "Russia"
+    },
+    "-LFdoPyBMmlFNhIHZMLz" : {
+      "club" : "CSKA Moscow",
+      "goalsFavor" : "3",
+      "imageURL" : "",
+      "name" : "Aleksandr Golovin",
+      "number" : "17",
+      "position" : "Midfielder",
+      "team" : "Russia"
+    },
+    "-LFdoQ4o24AgpHuHqLaW" : {
+      "club" : "Zenit St Petersburg",
+      "goalsFavor" : "2",
+      "imageURL" : "https://upload.wikimedia.org/wikipedia/commons/3/3e/Rus-Egy_%283%29.jpg",
+      "name" : "Yuri Zhirkov",
+      "number" : "18",
+      "position" : "Defender",
+      "team" : "Russia"
+    },
+    "-LFdoQCFNoQ4mhh8YuVo" : {
+      "club" : "Spartak Moscow",
+      "goalsFavor" : "7",
+      "imageURL" : "https://upload.wikimedia.org/wikipedia/commons/a/aa/Aleksandr_Samedov_2017.jpg",
+      "name" : "Aleksandr Samedov",
+      "number" : "19",
+      "position" : "Midfielder",
+      "team" : "Russia"
+    },
+    "-LFdoQKqxtLMNhQ0f5JB" : {
+      "club" : "Club Brugge",
+      "goalsFavor" : "0",
+      "imageURL" : "https://upload.wikimedia.org/wikipedia/commons/4/4b/Dinamo-Terek_%283%29.jpg",
+      "name" : "Vladimir Gabulov",
+      "number" : "20",
+      "position" : "Goalkeeper",
+      "team" : "Russia"
+    },
+    "-LFdoQSRiE56A0v_hayN" : {
+      "club" : "Zenit St Petersburg",
+      "goalsFavor" : "0",
+      "imageURL" : "",
+      "name" : "Aleksandr Erokhin",
+      "number" : "21",
+      "position" : "Midfielder",
+      "team" : "Russia"
+    },
+    "-LFdoQ_jPPSfzqEsHJ0a" : {
+      "club" : "Zenit St Petersburg",
+      "goalsFavor" : "13",
+      "imageURL" : "https://upload.wikimedia.org/wikipedia/commons/3/34/Dzyuba_2018.jpg",
+      "name" : "Artem Dzyuba",
+      "number" : "22",
+      "position" : "Forward",
+      "team" : "Russia"
+    },
+    "-LFdoQhDW-mAkxfUFAnM" : {
+      "club" : "Zenit St Petersburg",
+      "goalsFavor" : "0",
+      "imageURL" : "https://upload.wikimedia.org/wikipedia/commons/7/78/Zenit-KS_%285%29.jpg",
+      "name" : "Igor Smolnikov",
+      "number" : "23",
+      "position" : "Defender",
+      "team" : "Russia"
+    }
+}

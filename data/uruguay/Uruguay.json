@@ -1,0 +1,200 @@
+{
+   "-LFdp2UQFjGskdAJgp5S":{
+      "club":"Atlético Madrid",
+      "goalsFavor":"6",
+      "imageURL":"",
+      "name":"José María Giménez",
+      "number":"2",
+      "position":"Defender",
+      "team":"Uruguay"
+   },
+   "-LFdp2ae0WMhSqe0wiOY":{
+      "club":"Atlético Madrid",
+      "goalsFavor":"8",
+      "imageURL":"https://upload.wikimedia.org/wikipedia/commons/6/6d/20171114_AUT_URU_4533.jpg",
+      "name":"Diego Godín",
+      "number":"3",
+      "position":"Defender",
+      "team":"Uruguay"
+   },
+   "-LFdp2hrxn1SB0x4t8K_":{
+      "club":"Peñarol",
+      "goalsFavor":"0",
+      "imageURL":"",
+      "name":"Guillermo Varela",
+      "number":"4",
+      "position":"Defender",
+      "team":"Uruguay"
+   },
+   "-LFdp2p2LKWLj3BAuUE-":{
+      "club":"Monterrey",
+      "goalsFavor":"1",
+      "imageURL":"",
+      "name":"Carlos Sánchez",
+      "number":"5",
+      "position":"Midfielder",
+      "team":"Uruguay"
+   },
+   "-LFdp33J-j3KbVB9JluM":{
+      "club":"Juventus",
+      "goalsFavor":"0",
+      "imageURL":"https://upload.wikimedia.org/wikipedia/commons/2/27/20171114_AUT_URU_4518_-_Rodrigo_Bentancur_%28cropped%29.jpg",
+      "name":"Rodrigo Bentancur",
+      "number":"6",
+      "position":"Midfielder",
+      "team":"Uruguay"
+   },
+   "-LFdp3AiKdeSMV6iCLTZ":{
+      "club":"Peñarol",
+      "goalsFavor":"11",
+      "imageURL":"https://upload.wikimedia.org/wikipedia/commons/a/a7/Cebolla_Rodriguez_-_Copa_Libertadores_-_Premio_Bridgestone_180404-3725-jikatu_%2840608781014%29.jpg",
+      "name":"Cristian Rodríguez",
+      "number":"7",
+      "position":"Midfielder",
+      "team":"Uruguay"
+   },
+   "-LFdp3JwtEZz_7Kv4-ow":{
+      "club":"Boca Juniors",
+      "goalsFavor":"0",
+      "imageURL":"https://upload.wikimedia.org/wikipedia/commons/7/71/Urug_tren_%283%29_-_%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.jpg",
+      "name":"Nahitan Nández",
+      "number":"8",
+      "position":"Defender",
+      "team":"Uruguay"
+   },
+   "-LFdp3RU1MiRUZ__KBzF":{
+      "club":"Barcelona",
+      "goalsFavor":"52",
+      "imageURL":"https://upload.wikimedia.org/wikipedia/commons/6/6d/Luis_Su%C3%A1rez_2018.jpg",
+      "name":"Luis Suárez",
+      "number":"9",
+      "position":"Forward",
+      "team":"Uruguay"
+   },
+   "-LFdp3YyZ5eKO8Vpxz7p":{
+      "club":"Cruzeiro ",
+      "goalsFavor":"2",
+      "imageURL":"https://upload.wikimedia.org/wikipedia/commons/1/15/20171114_AUT_URU_4590.jpg",
+      "name":"Giorgian De Arrascaeta",
+      "number":"10",
+      "position":"Midfielder",
+      "team":"Uruguay"
+   },
+   "-LFdp3fFTzFaS05rmbmy":{
+      "club":"Girona ",
+      "goalsFavor":"5",
+      "imageURL":"https://upload.wikimedia.org/wikipedia/commons/8/80/U11_Christian_Stuani_7529.jpg",
+      "name":"Cristhian Stuani",
+      "number":"11",
+      "position":"Forward",
+      "team":"Uruguay"
+   },
+   "-LFdp3n0vktBcY-L86LI":{
+      "club":"Independiente",
+      "goalsFavor":"0",
+      "imageURL":"https://upload.wikimedia.org/wikipedia/commons/5/59/Urug_tren_%284%29_-_%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.jpg",
+      "name":"Martín Campaña",
+      "number":"12",
+      "position":"Goalkeeper",
+      "team":"Uruguay"
+   },
+   "-LFdp3ut45VC04u_3fPt":{
+      "club":"Independiente ",
+      "goalsFavor":"0",
+      "imageURL":"https://upload.wikimedia.org/wikipedia/commons/b/b4/20171114_AUT_URU_4513.jpg",
+      "name":"Gastón Silva",
+      "number":"13",
+      "position":"Defender",
+      "team":"Uruguay"
+   },
+   "-LFdp41ujJrfNDyGD-_6":{
+      "club":"Sampdoria ",
+      "goalsFavor":"0",
+      "imageURL":"https://upload.wikimedia.org/wikipedia/commons/e/e9/Lucas_Torreira.jpg",
+      "name":"Lucas Torreira",
+      "number":"14",
+      "position":"Midfielder",
+      "team":"Uruguay"
+   },
+   "-LFdp4CMDxDMWXQ8iqSA":{
+      "club":"Internazionale ",
+      "goalsFavor":"1",
+      "imageURL":"https://upload.wikimedia.org/wikipedia/commons/b/b1/20171114_AUT_URU_4555.jpg",
+      "name":"Matías Vecino",
+      "number":"15",
+      "position":"Midfielder",
+      "team":"Uruguay"
+   },
+   "-LFdp4JmjqajUob6_c5V":{
+      "club":"Porto",
+      "goalsFavor":"3",
+      "imageURL":"",
+      "name":"Maximiliano Pereira",
+      "number":"16",
+      "position":"Defender",
+      "team":"Uruguay"
+   },
+   "-LFdp4Rgrp9N_njxNLB8":{
+      "club":"Genoa",
+      "goalsFavor":"0",
+      "imageURL":"",
+      "name":"Diego Laxalt",
+      "number":"17",
+      "position":"Midfielder",
+      "team":"Uruguay"
+   },
+   "-LFdp4Z6gjNOPZeSD8KY":{
+      "club":"Celta Vigo ",
+      "goalsFavor":"0",
+      "imageURL":"",
+      "name":"Maximiliano Gómez",
+      "number":"18",
+      "position":"Forward",
+      "team":"Uruguay"
+   },
+   "-LFdp4fkZ8K4gBUHVPsu":{
+      "club":"Sporting",
+      "goalsFavor":"1",
+      "imageURL":"https://upload.wikimedia.org/wikipedia/commons/0/0f/SELECCI%C3%93N_URUGUAY_%2822557495689%29_%28cropped%29.jpg",
+      "name":"Sebastián Coates",
+      "number":"19",
+      "position":"Defender",
+      "team":"Uruguay"
+   },
+   "-LFdp4o51lQmYG2mgv9Q":{
+      "club":"Monterrey ",
+      "goalsFavor":"0",
+      "imageURL":"https://upload.wikimedia.org/wikipedia/commons/9/93/20171114_AUT_URU_4520.jpg",
+      "name":"Jonathan Urretaviscaya",
+      "number":"20",
+      "position":"Midfielder",
+      "team":"Uruguay"
+   },
+   "-LFdp4wcRqE9LROxrCV2":{
+      "club":"Paris St-Germain",
+      "goalsFavor":"42",
+      "imageURL":"https://upload.wikimedia.org/wikipedia/commons/a/ab/20171114_AUT_URU_4550.jpg",
+      "name":"Edinson Cavani",
+      "number":"21",
+      "position":"Forward",
+      "team":"Uruguay"
+   },
+   "-LFdp53ceserR3F0OiTg":{
+      "club":"Lazio ",
+      "goalsFavor":"4",
+      "imageURL":"https://upload.wikimedia.org/wikipedia/commons/8/8a/Mart%C3%ADn_C%C3%A1ceres_against_Chile.jpg",
+      "name":"Martín Cáceres",
+      "number":"22",
+      "position":"Defender",
+      "team":"Uruguay"
+   },
+   "-LFdp5BOi6okmh2doLsp":{
+      "club":"Vasco da Gama",
+      "goalsFavor":"0",
+      "imageURL":"https://upload.wikimedia.org/wikipedia/commons/2/25/Martin_Silva_cropped.jpg",
+      "name":"Martín Silva",
+      "number":"23",
+      "position":"Goalkeeper",
+      "team":"Uruguay"
+   }
+}
